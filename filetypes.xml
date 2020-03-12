@@ -4,6 +4,7 @@
       <mapping pattern="one-coordinator-for-the-youth-and-community-center.md" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping pattern="CampaignExportAction.php" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

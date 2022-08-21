@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="itest" value="it('$NAME$', function() {&#10;    $END$&#10;});" description="Generate IT Test Pest" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

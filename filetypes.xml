@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="big" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="one-coordinator-for-the-youth-and-community-center.md" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
